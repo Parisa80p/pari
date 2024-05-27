@@ -1,0 +1,10 @@
+
+
+# برای گرفتن ورودی از کاربر
+# to get input
+x = input("x: ")
+y = input("y: ")
+
+def F():
+    """to print my name"""
+    print("reza")
